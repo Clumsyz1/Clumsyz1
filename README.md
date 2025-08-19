@@ -1,7 +1,7 @@
-Hi&nbsp;![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)&nbsp;My name is Supatat Trisamut
+Hi&nbsp;![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)&nbsp;My name is Supatat
 ========================================================================================================================================
 
-3rd-Year Computer Science Student at Rangsit University | Web Developer | Tech Enthusiast
+Junior Programmer
 -----------------------------------------------------------------------------------------
 <img src="https://komarev.com/ghpvc/?username=Clumsyz1&style=flat-square&color=blue" alt="account counter"/>
 
@@ -26,9 +26,3 @@ src="https://img.shields.io/github/followers/Clumsyz1?logo=github&style=for-the-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Clumsyz1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/tong.spttsm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a></p>
-
-### 📊 GitHub Stats
-
-![Clumsyz1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clumsyz1&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clumsyz1&layout=compact&theme=radical)
