@@ -9,7 +9,7 @@ Passionate about web development and programming. Always curious and constantly 
 
 * 🌍  I'm based in Based in PathumThani
 * 🎓  Studying at Rangsit University
-* ✉️  You can contact me at [supathat27@gmail.com](mailto:supathat27@gmail.com)
+* ✉️  You can contact me at [supatat2234@gmail.com](mailto:supatat2234@gmail.com)
 * 🧠  I'm learning ReactJS, Next.js, TypeScript
 
 <a href="https://www.github.com/Clumsyz1" target="_blank" rel="noreferrer"><img
